@@ -11,4 +11,11 @@ This repository contains an interactive HR Analytics Dashboard built in Power BI
 * Added a chart where employees designation and the job satisfaction which they have faced are showing. 
 * Average salary chart is in the dashboard to show the salary range. 
 <img width="1378" height="766" alt="HR Analytics Dashboard (Power BI) Screen Shot " src="https://github.com/user-attachments/assets/cbc60dde-1119-4127-bf0c-498975013975" />
-
+## Tools & Techniques 
+* Power BI Desktop 
+* Data Cleaning & Transformation (Power Query)
+* Data Modeling (relationships, star schema)
+* DAX Measures for KPIs (Attrition Rate, Avg Age, Job Satisfaction, etc.)
+* Custom Visuals and Drill-down Interactivity 
+## Objective
+To provide HR teams with a powerful analytical tool that helps track workforce health, identify risk areas, and support strategic HR planning with data-driven insights.
